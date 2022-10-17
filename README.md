@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skylawson
 - 👀 I’m interested in combining by background in technology and finance to find innovative business solutions
-- 🌱 I’m currently learning data analytics 
+- 🌱 I’m currently learning financial modeling and data analytics 
 - 📫 How to reach me skylermlawson@gmail.com
 
 <!---
